@@ -1,2 +1,3 @@
 # Installation
-Installation file
+Clone the repo and run the installation.sh file. 
+Done!
