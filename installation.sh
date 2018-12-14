@@ -29,8 +29,12 @@ sudo apt-get update
 
 #------clone needed repositories-----
 
-#git clone https://github.com/ArticulatedControl17/truck_master
-git clone https://github.com/ArticulatedControl17/truck_master
+git clone https://github.com/ChalmersRobotPostman/rosaria.git
+git clone https://github.com/ChalmersRobotPostman/apriltags2_ros.git
+git clone https://github.com/ChalmersRobotPostman/usb_cam.git
+git clone https://github.com/ChalmersRobotPostman/simple_navigation_goals.git
+git clone https://github.com/ChalmersRobotPostman/POSTMAN_interface.git
+git clone https://github.com/ChalmersRobotPostman/p3dx_launch.git
 
 #--- build workspace---
 cd ..
